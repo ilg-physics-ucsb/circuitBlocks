@@ -1,4 +1,4 @@
-25215953354895639
+25214203759695375
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -100505,13 +100505,6 @@ igbt diode module
 0
 25
 25
-User
-PowerBoost 500C
-Through hole straight pin header, 1x08, 2.54mm pitch, single row
-Through hole pin header THT 1x08 2.54mm single row
-0
-10
-9
 User
 SSD1306_128x32_OLED
 Through hole straight pin header, 1x04, 2.54mm pitch, single row
